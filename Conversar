@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conversar com a Sorya</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #ffd1dc, #ffe4e1);
+      color: #333;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.2em;
+      margin-bottom: 40px;
+    }
+
+    a {
+      color: #ee6e73;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bora conversar?</h1>
+  <p>Aqui é o espaço onde você pode imaginar que tá batendo papo com a Sorya. Me conta: como você tá hoje?</p>
+  <p>Em breve, esse espaço terá uma caixinha pra digitar e receber respostas da Sorya!</p>
+  <a href="index.html">Voltar para a página inicial</a>
+</body>
+</html>
